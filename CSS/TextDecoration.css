@@ -1,0 +1,10 @@
+h2{
+    text-decoration: underline;
+}
+P{
+    text-decoration: line-through;
+    text-decoration: overline;
+}
+button{
+    text-decoration: overline;
+}
