@@ -1,0 +1,10 @@
+button:hover{
+    color:peru;
+    background-color: black;
+}
+p:hover{
+    color: blue;
+}
+h1:hover{
+    color: yellowgreen;
+}
