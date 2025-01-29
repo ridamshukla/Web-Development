@@ -1,0 +1,6 @@
+P::selection{
+    background-color: aqua;
+}
+h1::selection{
+    background-color: chartreuse;
+}
