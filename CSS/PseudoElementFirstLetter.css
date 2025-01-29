@@ -1,0 +1,6 @@
+P::first-letter{
+    color: aqua;
+}
+h1::first-letter{
+    background-color: aqua;
+}
