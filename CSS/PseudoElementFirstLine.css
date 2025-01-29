@@ -1,0 +1,6 @@
+p::first-line{
+    color: green;
+}
+h1::first-line{
+    color: blue;
+}
