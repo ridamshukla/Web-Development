@@ -1,0 +1,6 @@
+p:nth-child(n){
+    color: aqua;
+}
+h1:nth-child(n){
+    color: antiquewhite;
+}
