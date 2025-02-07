@@ -1,0 +1,30 @@
+#a{
+    background-color: aqua;
+    height: 100px;
+    width: 200px;
+    transform: rotate(40deg);
+}
+#b{
+    background-color: yellow;
+    height: 100px;
+    width: 200px;
+    transform: rotate(120deg);
+}
+#c{
+    background-color: greenyellow;
+    height: 100px;
+    width: 200px;
+    transform: rotate(50deg);
+}
+#d{
+    background-color: rebeccapurple;
+    height: 100px;
+    width: 200px;
+    transform: rotate(120deg);
+}
+#e{
+    background-color: brown;
+    height: 100px;
+    width: 200px;
+    transform: rotate(50deg);
+}
