@@ -1,0 +1,20 @@
+#a{
+    background-color: bisque;
+    transform: translate(100px);
+}
+#b{
+    background-color: blue;
+    transform: translate(80px,6px);
+}
+#c{
+    background-color: yellow;
+    transform: translate(60px,5px);
+}
+#d{
+    background-color: green;
+    transform: translate(40px,4px);
+}
+#e{
+    background-color: red;
+    transform: translate(20px);
+}
