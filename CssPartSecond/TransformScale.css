@@ -1,0 +1,19 @@
+
+#a{
+    background-color: bisque;
+    transform: scale(1,1.5);
+}
+#b{
+    background-color: blue;
+    transform: scale(1.5,1);
+}
+#c{
+    background-color: yellow;
+    transform: scale(1.1,1);
+}
+#d{
+    background-color: green;
+}
+#e{
+    background-color: red;
+}
