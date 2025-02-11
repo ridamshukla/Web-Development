@@ -1,0 +1,16 @@
+#one{
+    background-color: blue;
+    transform: skew(30deg);
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    border:2px solid black;
+}
+#two{
+    background-color: red;
+    transform: skew(-30deg);
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    border:2px solid black;
+}
