@@ -1,0 +1,10 @@
+#one{
+    width: 400px;
+    height: 200px;
+    transform: translate(50%);
+    background-color: green;
+    background-image: url("creatine.webp");
+    background-size: contain;
+}
+
+/* background image it add image on background */
