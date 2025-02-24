@@ -1,0 +1,77 @@
+/* Position Static */
+
+#Ridam{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-color: red;
+
+}
+#Shukla{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+    position: static;
+    top: 100px;
+    right: 100px;
+}
+
+/* Position Relative */
+
+#R{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+}
+#S{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+/* Position Absolute */
+
+#r{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-color: pink;
+}
+#s{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+
+/* Position Fix */
+
+#rs{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-color: black;
+}
+#sr{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-color: peru;
+    position: fixed;
+    top: 100px;
+    left: 100px;
+}
+
+
+
+
