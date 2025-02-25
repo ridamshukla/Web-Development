@@ -1,0 +1,24 @@
+.container{
+    height: 300px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column-reverse;
+    /* justify content for distributing space between content and items */
+    justify-content: flex-start;
+    /* flex wrap for items into multiple lines */
+    flex-wrap: wrap-reverse;
+    /* if we want to align items with our prespective than we use justify content */
+    justify-content: flex-start;
+    /* align content same as justify content but align content work on cross axis */
+    align-cntent:flex-end;
+    /* align self work on individual item */
+    
+}
+.container div{
+    height: 100px;
+    width: 100px;
+    color: white;
+}
